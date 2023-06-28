@@ -2,7 +2,6 @@ Katsiaryna Kaloshych
 
 ![image](https://github.com/Lavazz/rsschool-cv/assets/50598180/ac7aac35-7ace-43e1-a11d-849622480731)
 
-
 tel: +375445604406
 email: koloshych@gmail.com
 discord: Lavazz
@@ -31,4 +30,3 @@ In 2020 I learned in Epam Java lab.
 I've been working for Epam since octuber 2020.
 
 English: B1+
-
