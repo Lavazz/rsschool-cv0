@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Roboto;
+     src: url("assets/fonts/Roboto.ttf");
+   }
 body {
     background-color: powderblue;
 }
