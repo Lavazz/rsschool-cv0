@@ -79,3 +79,8 @@ body {
     letter-spacing: 5px;
     color: #829985;
   }
+
+  .code-example{
+    font-size: 20px;
+    font-weight: 400;
+  }
