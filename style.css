@@ -15,6 +15,8 @@
 
   :root {
     --pink: #d62ea9;
+    --light-green: #228f06 ;
+
   }
 
 body {
@@ -97,6 +99,29 @@ h1{
   }
 
   .code-example{
-    font-size: 20px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 300;
+  }
+
+  .rss-logo{
+    width: 70px;
+    margin: 0 10px;
+  }
+
+  .footer{
+    background-color: var(--light-green);
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+  }
+
+  pre{
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0;
+  }
+
+  #projects{
+    font-size: 18px;
   }
